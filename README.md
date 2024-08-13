@@ -19,4 +19,4 @@ This is a simple chat room application built with Vite, React, Firebase, and SAS
 
 ### GIF
 
-<img src=""/>
+<img src="./public/chattroom.gif"/>
